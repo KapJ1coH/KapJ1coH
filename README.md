@@ -3,6 +3,7 @@
 If you feel like your shell is missing some cool plugins, say no more.
 
 - Your new colorful shell: [starship](https://github.com/starship/starship)
+- Amazing tiling manager with a cool task bar replacement: [glazeWM](https://github.com/glzr-io/glazewm)
 - File browser [yazi](https://github.com/sxyazi/yazi)
 - The best git client ever [lazygit](https://github.com/jesseduffield/lazygit)
 - Smart memory for the `cd` command [zoxide](https://github.com/ajeetdsouza/zoxide)
