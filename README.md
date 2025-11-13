@@ -25,3 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## Current Project
+
+Working on some cool stuff - namely a vehicle occupancy sensor in `Rust`.
